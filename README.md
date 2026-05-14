@@ -109,15 +109,29 @@ streamlit run app.py
 
 ![Charts](screenshots/charts.png)
 
+
+---
+📚 Learning Objectives
+
+This project was developed to strengthen skills in:
+
+- Data analytics
+- Interactive dashboard development
+- Streamlit application development
+- Data visualization
+- Git and GitHub workflow
+- AI-assisted analytics integration
+
 ---
 
 🎯 Future Improvements
 
-* Advanced AI insights
-* Dashboard enhancements
-* Natural language querying
-* Predictive analytics integration
-* Database connectivity
+- Natural language querying using LLMs
+- Interactive KPI dashboards
+- Predictive analytics integration
+- Cloud deployment support
+- Multi-dataset analytics
+- Database integration
 
 ---
 
