@@ -4,6 +4,13 @@ An AI-powered Data Analytics Assistant built using Python and Streamlit.
 
 This application allows users to upload CSV or Excel datasets and interactively explore, analyze, and visualize data through an easy-to-use interface.
 
+
+
+---
+📁 Sample Dataset Included
+
+A dummy dataset named `SuperStoreOrders.csv` has been included in the project for testing, analytics, and visualization purposes.
+
 ---
 
 🚀 Features
