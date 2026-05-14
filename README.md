@@ -127,4 +127,4 @@ streamlit run app.py
 
 Dr. Ritwam Mukhopadhyay
 
-Pharm D Intern | Aspiring Data Analyst & AI Enthusiast
+Pharm D (Doctor Of Pharmacy) | Aspiring Data Analyst & AI Enthusiast
