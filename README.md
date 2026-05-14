@@ -29,8 +29,6 @@ A dummy dataset named `SuperStoreOrders.csv` has been included in the project fo
 * Streamlit
 * Pandas
 * Plotly
-* OpenAI API
-* LangChain
 
 ---
 
