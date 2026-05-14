@@ -1,4 +1,4 @@
-# 📊 Data Analytics Assistant
+📊 Data Analytics Assistant
 
 An AI-powered Data Analytics Assistant built using Python and Streamlit.
 
@@ -6,30 +6,30 @@ This application allows users to upload CSV or Excel datasets and interactively 
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-- Upload CSV and Excel files
-- Interactive data preview
-- Automated data analysis
-- Charts and visualizations
-- Business insights generation
-- AI-assisted analytics workflow
-- User-friendly Streamlit interface
-
----
-
-## 🛠️ Tech Stack
-
-- Python
-- Streamlit
-- Pandas
-- Plotly
-- OpenAI API
-- LangChain
+* Upload CSV and Excel files
+* Interactive data preview
+* Automated data analysis
+* Charts and visualizations
+* Business insights generation
+* AI-assisted analytics workflow
+* User-friendly Streamlit interface
 
 ---
 
-## 📂 Project Structure
+🛠️ Tech Stack
+
+* Python
+* Streamlit
+* Pandas
+* Plotly
+* OpenAI API
+* LangChain
+
+---
+
+📂 Project Structure
 
 ```bash
 data-analytics-assistant/
@@ -39,4 +39,87 @@ data-analytics-assistant/
 ├── requirements.txt
 ├── README.md
 ├── SuperStoreOrders.csv
+├── screenshots/
 └── .gitignore
+```
+
+---
+
+▶️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/RitwamMukhopadhyay/data-analytics-assistant.git
+```
+
+### Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### Activate Virtual Environment
+
+#### Windows
+
+```bash
+venv\Scripts\activate
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Application
+
+```bash
+streamlit run app.py
+```
+
+---
+
+
+📸 Screenshots
+
+### Home Screen
+
+![Home](screenshots/home.png)
+
+---
+
+### Dataset Preview
+
+![Preview](screenshots/preview.png)
+
+---
+
+### Analytics Dashboard
+
+![Analysis](screenshots/analysis.png)
+
+---
+
+### Data Visualization
+
+![Charts](screenshots/charts.png)
+
+---
+
+🎯 Future Improvements
+
+* Advanced AI insights
+* Dashboard enhancements
+* Natural language querying
+* Predictive analytics integration
+* Database connectivity
+
+---
+
+👨‍💻 Author
+
+Ritwam Mukhopadhyay
+
+Pharm D Intern | Aspiring Data Analyst & AI Enthusiast
